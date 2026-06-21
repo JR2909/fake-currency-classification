@@ -1,3 +1,3 @@
 # fake-currency-classification
 
-Fake currency detection
+Fake currency detection by using the dataset from kaggle
